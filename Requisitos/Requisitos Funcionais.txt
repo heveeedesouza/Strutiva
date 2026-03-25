@@ -23,3 +23,5 @@ R3 – Relatórios e Estatísticas
 R3.1 – Verificar quantidade de vendas por semana
 R3.2 – Verificar quantidade de vendas por mês
 R3.3 – Verificar quantidade de vendas por ano
+
+R4 - Modelo Inteligente
